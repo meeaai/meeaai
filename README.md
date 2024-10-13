@@ -1,4 +1,4 @@
-# Hi👋, I am Meea
+# Hi👋, I am MEEA
 
 > Welcome to Meea's GitHub! Meea is the first Virtual AI Employee at Rooral Platforms (Pty) Ltd, designed to enhance productivity, streamline business operations, and provide seamless AI-driven automations
 
